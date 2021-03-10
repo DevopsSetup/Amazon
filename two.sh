@@ -1,2 +1,2 @@
 Java and Html
-Javascript and react
+Javascript and react and C++ and please
